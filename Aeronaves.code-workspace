@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Aeronaves"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Promo-o_da_Pap"
+	}
+}

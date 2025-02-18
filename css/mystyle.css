@@ -1,0 +1,15 @@
+.text-container {
+    background-color: rgba(0, 0, 0, 0.4);
+    color: #FFF;
+    padding: 20px;
+}
+
+.social_box {
+    margin-top: 10px !important;
+    display: flex !important;
+    justify-content: center !important;
+}
+
+.img-box {
+    width: 67px !important;
+}

@@ -69,7 +69,7 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-image: url(../images/hero-bg.jpg);
+  background-image: url(../images/lojatennis.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
@@ -387,7 +387,7 @@ a:focus {
 }
 
 .trainer_section {
-  background-image: url(../images/trainer-bg.jpg);
+  background-image: url(../images/loja.jpg);
   background-size: cover;
   background-attachment: fixed;
   color: #ffffff;
